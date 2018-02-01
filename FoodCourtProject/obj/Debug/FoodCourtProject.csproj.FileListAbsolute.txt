@@ -1,0 +1,27 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\FoodCourtProject\FoodCourtProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\FoodCourtProject\FoodCourtProject\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\FoodCourtProject\FoodCourtProject\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\FoodCourtProject\FoodCourtProject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\FoodCourtProject\FoodCourtProject\obj\Debug\FoodCourtProject.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\FoodCourtProject\FoodCourtProject\bin\Debug\FoodCourtProject.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\FoodCourtProject\FoodCourtProject\bin\Debug\FoodCourtProject.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\FoodCourtProject\FoodCourtProject\obj\Debug\FoodCourtProject.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\FoodCourtProject\FoodCourtProject\obj\Debug\FoodCourtProject.pdb
+I:\FoodCourtProject\FoodCourtProject\obj\Debug\FoodCourtProject.exe
+I:\FoodCourtProject\FoodCourtProject\obj\Debug\FoodCourtProject.pdb
+I:\FoodCourtProject\FoodCourtProject\bin\Debug\FoodCourtProject.exe
+I:\FoodCourtProject\FoodCourtProject\bin\Debug\FoodCourtProject.pdb
+I:\FoodCourtProject\FoodCourtProject\obj\Debug\ResolveAssemblyReference.cache
+I:\FoodCourtProject\FoodCourtProject\obj\Debug\WindowsFormsApplication1.Form1.resources
+I:\FoodCourtProject\FoodCourtProject\obj\Debug\WindowsFormsApplication1.Form2.resources
+I:\FoodCourtProject\FoodCourtProject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\FoodCourtProject\FoodCourtProject\obj\Debug\FoodCourtProject.csproj.GenerateResource.Cache
+F:\Solution\FoodCourtProject\FoodCourtProject\obj\Debug\FoodCourtProject.exe
+F:\Solution\FoodCourtProject\FoodCourtProject\obj\Debug\FoodCourtProject.pdb
+F:\Solution\FoodCourtProject\FoodCourtProject\bin\Debug\FoodCourtProject.exe
+F:\Solution\FoodCourtProject\FoodCourtProject\bin\Debug\FoodCourtProject.pdb
+F:\Solution\FoodCourtProject\FoodCourtProject\obj\Debug\ResolveAssemblyReference.cache
+F:\Solution\FoodCourtProject\FoodCourtProject\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Solution\FoodCourtProject\FoodCourtProject\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\Solution\FoodCourtProject\FoodCourtProject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Solution\FoodCourtProject\FoodCourtProject\obj\Debug\FoodCourtProject.csproj.GenerateResource.Cache
